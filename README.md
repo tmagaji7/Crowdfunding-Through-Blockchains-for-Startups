@@ -28,8 +28,3 @@ This project implements a blockchain-powered decentralized crowdfunding platform
 Explore the detailed platform design and visual features here:  
 [Canva Design](https://www.canva.com/design/DAGZYSmVNcM/X3qKdU2l_5D1-uwMs8jiTQ/edit?utm_content=DAGZYSmVNcM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-## Setup and Installation  
-1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
-   cd blockchain-crowdfunding
